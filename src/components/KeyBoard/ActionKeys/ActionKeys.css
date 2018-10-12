@@ -1,0 +1,20 @@
+.actions {
+    display: inline-block;
+    width: 50px;
+    height: auto;
+}
+
+.actions p {
+    display: block;
+    width: 100%;
+    margin: 5px 0;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.actions p:hover {
+    background-color: rgba(31, 31, 46, 0.5);
+    cursor: pointer;
+}

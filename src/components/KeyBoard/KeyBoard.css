@@ -1,0 +1,7 @@
+.keyboard {
+    width: 300px;
+    height: auto;
+    margin: 0 auto;
+    float: left;
+    border: 1px solid wheat;
+}
